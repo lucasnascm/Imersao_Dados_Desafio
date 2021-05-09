@@ -26,5 +26,7 @@ Sabemos que todo este processo, até ser validado para etapas futuras no desenvo
 
 ## **Contato**
 Lucas Moreira
+
 lucas.nasc.m@gmail.com
+
 https://www.linkedin.com/in/moreiranlucas/
